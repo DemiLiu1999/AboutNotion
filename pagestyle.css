@@ -1,0 +1,30 @@
+body {
+    background-color: #e9e7de;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.normal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: justify;
+    line-height: 1.5;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    border: 4px dotted grey;
+    border-radius: 12px;
+}
+#back {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
